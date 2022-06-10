@@ -1,5 +1,5 @@
 ! Title: Anti-banner
-! Version: 222222222.0.3.5
+! Version: 1.0.3.5
 ! This version contains random domains 
 ||lenta.ru^
 ||mail.ru^

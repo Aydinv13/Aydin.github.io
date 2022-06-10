@@ -9,12 +9,7 @@
 @@||ria.ru^
 @@||nike.com^
 ||google.com^
-||vesti.ru^
-@@||blabla.com^
-||lenta.ru^
-||mail.ru^
-@@||vk.com^
-||ya.ru^
+||vesti.ru^||ya.ru^
 ||nike.com^
 @@||ria.ru^
 @@||nike.com^

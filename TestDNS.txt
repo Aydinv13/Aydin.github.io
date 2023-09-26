@@ -1,19 +1,11 @@
 ! Title: TestDNS
-! Version: 1.0.0.0
+! Version: 1.0.0.1
 ! This version contains random domains 
 ||lenta.ru^
 ||mail.ru^
 @@||vk.com^
 ||ya.ru^
 ||nike.com^
-@@||ria.ru^
-@@||nike.com^
-||google.com^
-||vesti.ru^
-@@||blabla.com^
-||lenta.ru^
-||mail.ru^
-@@||vk.com^
 ||ya.ru^
 ||nike.com^
 @@||ria.ru^

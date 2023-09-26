@@ -1,12 +1,11 @@
 ! Title: Anti-banner
-! Version: 1.0.0.9
+! Version: 1.0.1.9
 ! TimeUpdated: 2023-09-26T14:31:52+00:00
 ! This version contains random domains 
 ||lenta.ru^
 ||mail.ru^
 @@||vk.com^
 ||ya.ru^
-||nike.com^
 @@||ria.ru^
 @@||nike.com^
 ||google.com^

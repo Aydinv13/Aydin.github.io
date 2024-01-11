@@ -50,3 +50,4 @@ bbc.com
 ||ya.ru^||vesti.ru^
 ||apple.com^
 ||ya.ru^
+example.org#%#window.__gaq = undefined;

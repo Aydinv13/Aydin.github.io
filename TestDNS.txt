@@ -1,5 +1,5 @@
 ! Title: TestDNS
-! Version: 3.1.1.1
+! Version: 4.4.4.4
 ! This version contains random domains 
 ||lenta.ru^
 ||mail.ru^

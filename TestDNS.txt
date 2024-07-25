@@ -17,7 +17,6 @@ pipi
 ||lenta.ru^
 ||mail.ru^
 @@||vk.com^
-||ya.ru^
 ||nike.com^
 @@||ria.ru^
 @@||nike.com^
@@ -26,3 +25,4 @@ pipi
 ||nike.com^
 ||ya.ru^
 ||nike.com^
+@@||apple.com^

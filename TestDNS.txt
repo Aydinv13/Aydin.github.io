@@ -1,7 +1,8 @@
 ! Title: TestDNS
-! Version: 2.2.2.2
+! Version: 3.3.3.3
 ! This version contains random domains 
 ||lenta.ru^
+edberberb
 ||mail.ru^
 @@||vk.com^
 ||ya.ru^

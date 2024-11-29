@@ -19,9 +19,14 @@ fgdfgdfg
 ||lenta.ru^
 ||mail.ru^
 @@||vk.com^
-||ya.ru^
 ||nike.com^
 @@||ria.ru^
 @@||nike.com^
 ||google.com^
 
+
+||ya.ru^
+||nike.com^
+||ya.ru^
+||nike.com^
+@@||apple.com^

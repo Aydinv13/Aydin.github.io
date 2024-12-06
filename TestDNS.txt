@@ -1,5 +1,5 @@
 ! Title: TestDNS
-! Version: 3.3.3.5
+! Version: 3.3.3.6
 ! This version contains random domains 
 ||lenta.ru^
 edberberb

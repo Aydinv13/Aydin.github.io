@@ -2,26 +2,20 @@
 ! Version: 3.3.3.6
 ! This version contains random domains 
 ||lenta.ru^
-edberberb
-||mail.ru^
 @@||vk.com^
 ||ya.ru^
 ||nike.com^
 ||ya.ru^
 ||nike.com^
-pypy
-fgdfgdfg
 @@||ria.ru^
 @@||nike.com^
 ||google.com^
 ||vesti.ru^
 @@||blabla.com^
-||lenta.ru^
 ||mail.ru^
 @@||vk.com^
 ||ya.ru^
 ||nike.com^
 @@||ria.ru^
 @@||nike.com^
-||google.com^
 

@@ -1,5 +1,5 @@
 ! Title: TestDNS
-! Version: 3.3.3.6
+! Version: 4.4.4.6
 ! This version contains random domains 
 ||lenta.ru^
 @@||vk.com^
